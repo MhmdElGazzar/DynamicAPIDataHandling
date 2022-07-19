@@ -5,12 +5,15 @@ please find the conent of the session in this repo
 
 ## main directory you will find:
 1 - [convert java object to byte stream and vice versa](https://github.com/MhmdElGazzar/DynamicAPIDataHandling/blob/main/src/main/java/main.java) 
+
 2- [convert java object to json file and vice versa](https://github.com/MhmdElGazzar/DynamicAPIDataHandling/tree/main/src/main/java/json) 
 
 
 ## under test directory you will find: 
 3 - [make pojo class for request body](https://github.com/MhmdElGazzar/DynamicAPIDataHandling/blob/main/src/test/java/APIPayloadDemo.java) 
+
 4 - [make pojo class for response body](https://github.com/MhmdElGazzar/DynamicAPIDataHandling/blob/main/src/test/java/APIResponseDemo.java) 
+
 5 - [reflection assertion](#)
 
 Link for online pojo converter 
