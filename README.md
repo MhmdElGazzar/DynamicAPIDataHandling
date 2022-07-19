@@ -16,8 +16,8 @@ please find the conent of the session in this repo
 
 5 - [reflection assertion](#)
 
-Link for online pojo converter 
-https://json2csharp.com/code-converters/json-to-pojo
+link for API website used  https://www.zippopotam.us/
 
-Discussion about reflection assertion 
-https://stackoverflow.com/questions/27326570/how-can-i-compare-pojos-by-their-fields-reflectively
+Link for online pojo converter  https://json2csharp.com/code-converters/json-to-pojo
+
+Discussion about reflection assertion  https://stackoverflow.com/questions/27326570/how-can-i-compare-pojos-by-their-fields-reflectively
