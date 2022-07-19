@@ -3,7 +3,7 @@ Hello Dears
 
 please find the conent of the session in this repo 
 
-## main directory you will find:
+## under main directory you will find:
 1 - [convert java object to byte stream and vice versa](https://github.com/MhmdElGazzar/DynamicAPIDataHandling/blob/main/src/main/java/main.java) 
 
 2- [convert java object to json file and vice versa](https://github.com/MhmdElGazzar/DynamicAPIDataHandling/tree/main/src/main/java/json) 
